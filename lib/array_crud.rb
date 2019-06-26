@@ -1,9 +1,9 @@
 def create_an_empty_array
-  fruit = []
+  []
 end
 
 def create_an_array
-  fruit = ["apple","orange","kiwi","blueberry"]
+  
 end
 
 def add_element_to_end_of_array(array, element)

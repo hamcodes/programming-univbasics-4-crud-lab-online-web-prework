@@ -9,6 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   my_array = ["hi","bye","hey","see ya"]
   my_array << "howdy"
+  p my_array
 end
 
 def add_element_to_start_of_array(array, element)
